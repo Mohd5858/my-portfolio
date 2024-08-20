@@ -40,12 +40,11 @@ function Hero() {
         </h1>
         <h2>Frontend Developer</h2>
         <span>
-          <a href="https://github.com/anassaifi82" target="_blank">
+          <a href="https://github.com/Mohd5858" target="_blank">
             <img src={githubIcon} alt="Github icon" />
           </a>
           <a
-            href="https://www.linkedin.com/in/anas-saifi-940394277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
-            target="_blank"
+            href="https://www.linkedin.com/in/mohd-anas-ali-9417a4291
           >
             <img src={linkedinIcon} alt="Linkedin icon" />
           </a>
