@@ -45,6 +45,7 @@ function Hero() {
           </a>
           <a
             href="https://www.linkedin.com/in/mohd-anas-ali-9417a4291
+                target="_blank"
           >
             <img src={linkedinIcon} alt="Linkedin icon" />
           </a>
