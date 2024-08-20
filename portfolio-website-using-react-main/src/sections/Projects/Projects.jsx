@@ -11,13 +11,13 @@ function Projects() {
       <h1 className="sectionTitle">Projects</h1>
       <div className={styles.projectsContainer}>
         <ProjectCard
-          link={"https://github.com/anassaifi82/React-weather-app"}
+          link={"https://github.com/Mohd5858/REACT-WEATHER-APP"}
           src={Weather}
           h3="Weathet APP"
           p="weather forcasting"
         />
         <ProjectCard
-          link={"https://github.com/anassaifi82/portfolio-website-using-react"}
+          link={"https://github.com/Mohd5858/my-portfolio"}
           src={Portfolio}
           h3=" Portfolio website"
           p="Personal portolio"
